@@ -1,4 +1,4 @@
-# Frontend - Post Article Dashboard (Sharing Vision Pretest 2023)
+# Frontend - Post Article Dashboard 
 
 Halo, ini bagian frontend dari submission saya untuk technical test Sharing Vision 2023, use case **Post Article**. Dashboard React buat kelola artikel, komunikasi ke backend lewat REST API, sesuai soal yang diberikan.
 
